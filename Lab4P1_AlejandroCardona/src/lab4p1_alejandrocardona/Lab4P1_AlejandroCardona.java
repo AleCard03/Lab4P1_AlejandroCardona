@@ -43,7 +43,7 @@ public class Lab4P1_AlejandroCardona {
 //
 //                    }
 //                    formato = true;
-//                    System.out.println("tuputamadre");
+
 //                    while (formato){
 //                        for ( int i = 5; i < set1.length() && digito; i+=3){
 //                            char r = set1.charAt(i);

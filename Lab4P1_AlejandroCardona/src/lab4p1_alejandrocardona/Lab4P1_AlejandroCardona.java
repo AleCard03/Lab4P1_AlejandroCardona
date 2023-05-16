@@ -43,7 +43,7 @@ public class Lab4P1_AlejandroCardona {
 //
 //                    }
 //                    formato = true;
-
+// Lo que estaba en esta línea lo había puesto para visualizar si mi programa estaba saliendo del while de arriba, no es un insulto, mil disculpas, favor ignorar
 //                    while (formato){
 //                        for ( int i = 5; i < set1.length() && digito; i+=3){
 //                            char r = set1.charAt(i);
